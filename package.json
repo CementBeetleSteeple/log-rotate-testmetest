@@ -1,0 +1,12 @@
+{
+  "name": "log-rotate-testmetest",
+  "version": "1.0.0",
+  "description": "log rotation utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo ok"
+  },
+  "keywords": [],
+  "author": "newtestnewdont",
+  "license": "MIT"
+}
